@@ -17,6 +17,7 @@ Blog Link: [나로 물들다](https://blog.naver.com/yb2316)
 - [[3주차] 흐름 제어 구문: for, while, if, guard, switch](https://blog.naver.com/yb2316/222209920642)
 - [[4주차] 고급 데이터 타입: Collection Types(Array, Set, Dictionary), Tuple, enum](https://blog.naver.com/yb2316/222209922070)
 - [[5주차] Optional: 스위프트가 잠재적 오류를 다루는 방법](https://blog.naver.com/yb2316/222209922366)
+- [[6주차] 스위프트의 함수와 메서드: 기본 개념, 매개변수](https://blog.naver.com/yb2316/222209922546)
 
 
 
