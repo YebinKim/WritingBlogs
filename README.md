@@ -26,4 +26,5 @@ Blog Link: [나로 물들다](https://blog.naver.com/yb2316)
 
 - [2019 카카오 개발자 겨울 인턴십 후기](https://blog.naver.com/yb2316/221833176498)
 - [Wanted Live Talk, '성장하는 iOS 개발자 되기' 참여 후기](https://blog.naver.com/yb2316/222224980812)
+- [깃헙 메인 프로필 꾸미기 (뱃지 설정, 컴포넌트 추가)](https://blog.naver.com/yb2316/222260350184)
 
