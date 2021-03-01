@@ -22,6 +22,12 @@ Blog Link: [나로 물들다](https://blog.naver.com/yb2316)
 
 
 
+## RxSwift 기초 스터디
+
+- [[OT] RxSwift 기초 스터디를 진행해보자](https://blog.naver.com/yb2316/222261349676)
+
+
+
 ## 기타
 
 - [2019 카카오 개발자 겨울 인턴십 후기](https://blog.naver.com/yb2316/221833176498)
