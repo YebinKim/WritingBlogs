@@ -28,6 +28,7 @@ Blog Link: [나로 물들다](https://blog.naver.com/yb2316)
 - ﻿[[1주차] RxSwift 개요, 비동기 프로그래밍이란?](https://blog.naver.com/yb2316/222262453779)
 - ﻿[[2주차] Observables을 알아보자](https://blog.naver.com/yb2316/222268793849)
 - ﻿[[2주차] Subjects를 알아보자](https://blog.naver.com/yb2316/222268795058)
+- ﻿[[3주차] Operators를 알아보자: Creating Observables편](https://blog.naver.com/yb2316/222277676285)
 
 
 
