@@ -29,6 +29,7 @@ Blog Link: [나로 물들다](https://blog.naver.com/yb2316)
 - ﻿[[2주차] Observables을 알아보자](https://blog.naver.com/yb2316/222268793849)
 - ﻿[[2주차] Subjects를 알아보자](https://blog.naver.com/yb2316/222268795058)
 - ﻿[[3주차] Operators를 알아보자: Creating Observables편](https://blog.naver.com/yb2316/222277676285)
+- ﻿[[3주차] Operators를 알아보자: Transforming Observables편](https://blog.naver.com/yb2316/222277681000)
 
 
 
