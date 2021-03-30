@@ -32,6 +32,7 @@ Blog Link: [나로 물들다](https://blog.naver.com/yb2316)
 - ﻿[[3주차] Operators를 알아보자: Transforming Observables편](https://blog.naver.com/yb2316/222277681000)
 - ﻿[[4주차] Operators를 알아보자: Filtering Observables편](https://blog.naver.com/yb2316/222284011277)
 - ﻿[[4주차] Operators를 알아보자: Combining Observables편](https://blog.naver.com/yb2316/222284011714)
+- ﻿[[5주차] Operators를 알아보자: Observable Utility Operators편](https://blog.naver.com/yb2316/222292950086)
 
 
 
