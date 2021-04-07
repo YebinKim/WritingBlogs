@@ -36,6 +36,7 @@ Blog Link: [나로 물들다](https://blog.naver.com/yb2316)
 - ﻿[[5주차] Scheduler를 알아보자](https://blog.naver.com/yb2316/222292951312)
 - ﻿[[5주차] Error Handling을 알아보자](https://blog.naver.com/yb2316/222292954994)
 - ﻿[[6주차] Traits를 알아보자](https://blog.naver.com/yb2316/222300925062)
+- ﻿[[6주차] RxCocoa를 알아보자](https://blog.naver.com/yb2316/222301169274)
 
 
 
