@@ -51,6 +51,7 @@ Blog Link: [나로 물들다](https://blog.naver.com/yb2316)
 ## DDD 스터디
 
 - [[DDD Start!] 1장. 도메인 모델 시작을 읽어보자](https://blog.naver.com/yb2316/222353797089)
+- [[DDD Start!] 2장. 아키텍처 개요를 읽어보자](https://blog.naver.com/yb2316/222353827299)
 
 
 
