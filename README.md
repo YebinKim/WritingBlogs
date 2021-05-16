@@ -48,6 +48,12 @@ Blog Link: [나로 물들다](https://blog.naver.com/yb2316)
 
 
 
+## DDD 스터디
+
+- [[DDD Start!] 1장. 도메인 모델 시작을 읽어보자](https://blog.naver.com/yb2316/222353797089)
+
+
+
 ## 기타
 
 - [2019 카카오 개발자 겨울 인턴십 후기](https://blog.naver.com/yb2316/221833176498)
