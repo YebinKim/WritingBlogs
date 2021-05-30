@@ -59,6 +59,7 @@ Blog Link: [나로 물들다](https://blog.naver.com/yb2316)
 - [[DDD Start!] 2장. 아키텍처 개요를 읽어보자](https://blog.naver.com/yb2316/222353827299)
 - [[DDD Start!] 3장. 애그리거트를 읽어보자](https://blog.naver.com/yb2316/222353860116)
 - [[DDD Start!] 4장. 리포지터리와 모델 구현을 읽어보자](https://blog.naver.com/yb2316/222363167466)
+- [[DDD Start!] 5장. 리포지터리의 조회 기능을 읽어보자](https://blog.naver.com/yb2316/222375995588)
 
 
 
