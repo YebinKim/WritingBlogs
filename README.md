@@ -63,6 +63,7 @@ Blog Link: [나로 물들다](https://blog.naver.com/yb2316)
 - [[DDD Start!] 6장. 응용 서비스와 표현 영역을 읽어보자](https://blog.naver.com/yb2316/222387496736)
 - [[DDD Start!] 7장. 도메인 서비스를 읽어보자](https://blog.naver.com/yb2316/222404604597)
 - [[DDD Start!] 8장. 애그리거트 트랜잭션 관리를 읽어보자](https://blog.naver.com/yb2316/222414671099)
+- [[DDD Start!] 9장. 도메인 모델과 Bounded Context를 읽어보자](https://blog.naver.com/yb2316/222420313509)
 
 
 
