@@ -65,6 +65,7 @@ Blog Link: [나로 물들다](https://blog.naver.com/yb2316)
 - [[DDD Start!] 8장. 애그리거트 트랜잭션 관리를 읽어보자](https://blog.naver.com/yb2316/222414671099)
 - [[DDD Start!] 9장. 도메인 모델과 Bounded Context를 읽어보자](https://blog.naver.com/yb2316/222420313509)
 - [[DDD Start!] 10장. 이벤트를 읽어보자](https://blog.naver.com/yb2316/222436412355)
+- [[DDD Start!] 11장. CQRS를 읽어보자](https://blog.naver.com/yb2316/222445351478)
 
 
 
