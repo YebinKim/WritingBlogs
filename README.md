@@ -1,7 +1,7 @@
 # WritingBlogs
 
 
-> I wrote a blog post!
+> I'm writing a blog post.
 
 
 
