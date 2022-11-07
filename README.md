@@ -75,3 +75,12 @@ Blog Link: [나로 물들다](https://blog.naver.com/yb2316)
 - [Wanted Live Talk, '성장하는 iOS 개발자 되기' 참여 후기](https://blog.naver.com/yb2316/222224980812)
 - [깃헙 메인 프로필 꾸미기 (뱃지 설정, 컴포넌트 추가)](https://blog.naver.com/yb2316/222260350184)
 
+
+
+---
+
+Notion: vivi-log
+
+## Operating System
+
+- [0. OT](https://brief-umbrella-2c0.notion.site/0-OT-3dade6ef4b2441cb83b86cd956b52791)
