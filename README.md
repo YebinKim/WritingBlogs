@@ -84,3 +84,4 @@ Notion: vivi-log
 ## Operating System
 
 - [0. OT](https://brief-umbrella-2c0.notion.site/0-OT-3dade6ef4b2441cb83b86cd956b52791)
+- [1. Introduction to Operating Systems](https://brief-umbrella-2c0.notion.site/1-Introduction-to-Operating-Systems-c426809dd17b44629f4de2293dc3dce4)
