@@ -85,3 +85,4 @@ Notion: vivi-log
 
 - [0. OT](https://brief-umbrella-2c0.notion.site/0-OT-3dade6ef4b2441cb83b86cd956b52791)
 - [1. Introduction to Operating Systems](https://brief-umbrella-2c0.notion.site/1-Introduction-to-Operating-Systems-c426809dd17b44629f4de2293dc3dce4)
+- [2. System Structure & Program Execution_1](https://brief-umbrella-2c0.notion.site/2-System-Structure-Program-Execution_1-3522d9e74a374e3f9d18695d1ba90c6c)
