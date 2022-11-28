@@ -87,3 +87,4 @@ Notion: vivi-log
 - [1. Introduction to Operating Systems](https://brief-umbrella-2c0.notion.site/1-Introduction-to-Operating-Systems-c426809dd17b44629f4de2293dc3dce4)
 - [2. System Structure & Program Execution_1](https://brief-umbrella-2c0.notion.site/2-System-Structure-Program-Execution_1-3522d9e74a374e3f9d18695d1ba90c6c)
 - [3. System Structure & Program Execution_2](https://brief-umbrella-2c0.notion.site/3-System-Structure-Program-Execution_2-0c2e05857d2944b0b18a14f4dc499bae)
+- [4. Process_1](https://brief-umbrella-2c0.notion.site/4-Process_1-51ce90c6e1ac49c69a1422fa0a012be9)
