@@ -89,6 +89,7 @@ Notion: vivi-log
 - [3. System Structure & Program Execution_2](https://brief-umbrella-2c0.notion.site/3-System-Structure-Program-Execution_2-0c2e05857d2944b0b18a14f4dc499bae)
 - [4. Process_1](https://brief-umbrella-2c0.notion.site/4-Process_1-51ce90c6e1ac49c69a1422fa0a012be9)
 - [5. Process_2~3](https://brief-umbrella-2c0.notion.site/5-Process_2-3-ad781a147e8648078b391daab22577b7)
+- [6. Process Management_1](https://brief-umbrella-2c0.notion.site/6-Process-Management_1-bf99abc167114ed482b84a9d53a7f306)
 
 
 
