@@ -92,6 +92,7 @@ Notion: vivi-log
 - [6. Process Management_1](https://brief-umbrella-2c0.notion.site/6-Process-Management_1-bf99abc167114ed482b84a9d53a7f306)
 - [7. Process Management_2](https://brief-umbrella-2c0.notion.site/7-Process-Management_2-72d271a949594a18a05ecd90a68ba9fa)
 - [8. CPU Scheduling_1](https://brief-umbrella-2c0.notion.site/8-CPU-Scheduling_1-ab14878ec6004f59b6d547da88fd7cea)
+- [9. CPU Scheduling_2](https://brief-umbrella-2c0.notion.site/9-CPU-Scheduling_2-31f1f00fe2864dfbba603f9db4fe2ad6)
 
 
 
