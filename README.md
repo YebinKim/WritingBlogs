@@ -99,3 +99,9 @@ Notion: vivi-log
 ## RxSwift
 
 - [RxSwift 4시간만에 끝내기! w/곰튀김님](https://brief-umbrella-2c0.notion.site/RxSwift-4-f30431b2a87849aeb7a80b82ef824e56)
+
+
+
+## A Swift Tour
+
+- [A Swift Tour 한국어 번역](https://brief-umbrella-2c0.notion.site/A-Swift-Tour-19e2f6664bff44d8b84e0653e0dc7726)
