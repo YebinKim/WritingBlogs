@@ -83,25 +83,25 @@ Notion: vivi-log
 
 ## Operating System
 
-- [0. OT](https://brief-umbrella-2c0.notion.site/0-OT-3dade6ef4b2441cb83b86cd956b52791)
-- [1. Introduction to Operating Systems](https://brief-umbrella-2c0.notion.site/1-Introduction-to-Operating-Systems-c426809dd17b44629f4de2293dc3dce4)
-- [2. System Structure & Program Execution_1](https://brief-umbrella-2c0.notion.site/2-System-Structure-Program-Execution_1-3522d9e74a374e3f9d18695d1ba90c6c)
-- [3. System Structure & Program Execution_2](https://brief-umbrella-2c0.notion.site/3-System-Structure-Program-Execution_2-0c2e05857d2944b0b18a14f4dc499bae)
-- [4. Process_1](https://brief-umbrella-2c0.notion.site/4-Process_1-51ce90c6e1ac49c69a1422fa0a012be9)
-- [5. Process_2~3](https://brief-umbrella-2c0.notion.site/5-Process_2-3-ad781a147e8648078b391daab22577b7)
-- [6. Process Management_1](https://brief-umbrella-2c0.notion.site/6-Process-Management_1-bf99abc167114ed482b84a9d53a7f306)
-- [7. Process Management_2](https://brief-umbrella-2c0.notion.site/7-Process-Management_2-72d271a949594a18a05ecd90a68ba9fa)
-- [8. CPU Scheduling_1](https://brief-umbrella-2c0.notion.site/8-CPU-Scheduling_1-ab14878ec6004f59b6d547da88fd7cea)
-- [9. CPU Scheduling_2](https://brief-umbrella-2c0.notion.site/9-CPU-Scheduling_2-31f1f00fe2864dfbba603f9db4fe2ad6)
+- [0. OT](https://vivi-log.notion.site/0-OT-3dade6ef4b2441cb83b86cd956b52791)
+- [1. Introduction to Operating Systems](https://vivi-log.notion.site/1-Introduction-to-Operating-Systems-c426809dd17b44629f4de2293dc3dce4)
+- [2. System Structure & Program Execution_1](https://vivi-log.notion.site/2-System-Structure-Program-Execution_1-3522d9e74a374e3f9d18695d1ba90c6c)
+- [3. System Structure & Program Execution_2](https://vivi-log.notion.site/3-System-Structure-Program-Execution_2-0c2e05857d2944b0b18a14f4dc499bae)
+- [4. Process_1](https://vivi-log.notion.site/4-Process_1-51ce90c6e1ac49c69a1422fa0a012be9)
+- [5. Process_2~3](https://vivi-log.notion.site/5-Process_2-3-ad781a147e8648078b391daab22577b7)
+- [6. Process Management_1](https://vivi-log.notion.site/6-Process-Management_1-bf99abc167114ed482b84a9d53a7f306)
+- [7. Process Management_2](https://vivi-log.notion.site/7-Process-Management_2-72d271a949594a18a05ecd90a68ba9fa)
+- [8. CPU Scheduling_1](https://vivi-log.notion.site/8-CPU-Scheduling_1-ab14878ec6004f59b6d547da88fd7cea)
+- [9. CPU Scheduling_2](https://vivi-log.notion.site/9-CPU-Scheduling_2-31f1f00fe2864dfbba603f9db4fe2ad6)
 
 
 
 ## RxSwift
 
-- [RxSwift 4시간만에 끝내기! w/곰튀김님](https://brief-umbrella-2c0.notion.site/RxSwift-4-f30431b2a87849aeb7a80b82ef824e56)
+- [RxSwift 4시간만에 끝내기! w/곰튀김님](https://vivi-log.notion.site/RxSwift-4-f30431b2a87849aeb7a80b82ef824e56)
 
 
 
 ## A Swift Tour
 
-- [A Swift Tour 한국어 번역](https://brief-umbrella-2c0.notion.site/A-Swift-Tour-19e2f6664bff44d8b84e0653e0dc7726)
+- [A Swift Tour 한국어 번역](https://vivi-log.notion.site/A-Swift-Tour-19e2f6664bff44d8b84e0653e0dc7726)
