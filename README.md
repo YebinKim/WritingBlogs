@@ -93,6 +93,7 @@ Notion: vivi-log
 - [7. Process Management_2](https://vivi-log.notion.site/7-Process-Management_2-72d271a949594a18a05ecd90a68ba9fa)
 - [8. CPU Scheduling_1](https://vivi-log.notion.site/8-CPU-Scheduling_1-ab14878ec6004f59b6d547da88fd7cea)
 - [9. CPU Scheduling_2](https://vivi-log.notion.site/9-CPU-Scheduling_2-31f1f00fe2864dfbba603f9db4fe2ad6)
+- [10. CPU Scheduling_3](https://vivi-log.notion.site/10-CPU-Scheduling_3-30e3043c104541e08a58a4e2c175f49a)
 
 
 
