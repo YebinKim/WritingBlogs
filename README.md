@@ -97,6 +97,7 @@ Notion: vivi-log
 - [11. Process Synchronization_1](https://vivi-log.notion.site/11-Process-Synchronization_1-b5dfd07d067d4d849216b65e712d2ea5)
 - [12. Process Synchronization_2](https://vivi-log.notion.site/12-Process-Synchronization_2-8e26ed8597a94e03b2a7a81510a69ab4)
 - [13. Process Synchronization_3](https://vivi-log.notion.site/13-Process-Synchronization_3-308b888aa2d8446689760ddd26566643)
+- [14. Process Synchronization_4](https://vivi-log.notion.site/14-Process-Synchronization_4-f8c9306aadcb409696a296b58e1f688d)
 
 
 
