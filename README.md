@@ -100,6 +100,7 @@ Notion: vivi-log
 - [14. Process Synchronization_4](https://vivi-log.notion.site/14-Process-Synchronization_4-f8c9306aadcb409696a296b58e1f688d)
 - [15. Deadlocks_1](https://vivi-log.notion.site/15-Deadlocks_1-d60685665b884ae499178d3e70a8df52)
 - [16. Deadlocks_2](https://vivi-log.notion.site/16-Deadlocks_2-17355ce724ad46bdbf5bbed238305bf3)
+- [17. Memory Management_1](https://vivi-log.notion.site/17-Memory-Management_1-cda6ec14da2a4a4baeebfb2ecfde4692)
 
 
 
