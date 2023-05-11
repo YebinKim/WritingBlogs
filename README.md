@@ -81,6 +81,12 @@ Blog Link: [나로 물들다](https://blog.naver.com/yb2316)
 
 Notion: vivi-log
 
+## A Swift Tour
+
+- [A Swift Tour 한국어 번역](https://vivi-log.notion.site/A-Swift-Tour-19e2f6664bff44d8b84e0653e0dc7726)
+
+
+
 ## Operating System
 
 - [0. OT](https://vivi-log.notion.site/0-OT-3dade6ef4b2441cb83b86cd956b52791)
@@ -107,9 +113,3 @@ Notion: vivi-log
 ## RxSwift
 
 - [RxSwift 4시간만에 끝내기! w/곰튀김님](https://vivi-log.notion.site/RxSwift-4-f30431b2a87849aeb7a80b82ef824e56)
-
-
-
-## A Swift Tour
-
-- [A Swift Tour 한국어 번역](https://vivi-log.notion.site/A-Swift-Tour-19e2f6664bff44d8b84e0653e0dc7726)
