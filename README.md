@@ -113,3 +113,4 @@ Notion: vivi-log
 ## RxSwift
 
 - [RxSwift 4시간만에 끝내기! w/곰튀김님](https://vivi-log.notion.site/RxSwift-4-f30431b2a87849aeb7a80b82ef824e56)
+- [RxSwift + MVVM 4시간만에 끝내기! w/곰튀김님](https://vivi-log.notion.site/RxSwift-MVVM-4-2d5446c8981f43e6893f2263e20ed305)
